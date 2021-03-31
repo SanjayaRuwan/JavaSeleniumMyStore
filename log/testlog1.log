@@ -1,0 +1,240 @@
+2021-03-19 12:30:47,996 [main] INFO My Store - Clicked sign in button
+2021-03-19 12:30:48,078 [main] INFO My Store - Clicked sign in button
+2021-03-19 12:39:30,726 [main] INFO My Store - Clicked sign in button
+2021-03-19 12:39:30,812 [main] INFO My Store - Entered email address
+2021-03-19 12:39:31,891 [main] INFO My Store - Clicked create account
+2021-03-19 12:41:27,952 [main] INFO My Store - Clicked sign in button
+2021-03-19 12:42:22,028 [main] INFO My Store - Clicked sign in button
+2021-03-19 15:05:16,737 [main] INFO My Store - Clicked sign in button
+2021-03-19 15:12:26,026 [main] INFO My Store - Clicked sign in button
+2021-03-19 15:14:14,268 [main] INFO My Store - Clicked sign in button
+2021-03-19 15:32:15,139 [main] INFO My Store - Clicked sign in button
+2021-03-19 15:32:15,232 [main] INFO My Store - Entered email address
+2021-03-19 15:32:16,303 [main] INFO My Store - Clicked create account
+2021-03-19 15:32:47,695 [main] INFO My Store - Clicked sign in button
+2021-03-19 15:32:47,812 [main] INFO My Store - Entered email address
+2021-03-19 15:32:48,900 [main] INFO My Store - Clicked create account
+2021-03-19 16:51:59,600 [main] INFO My Store - Entered email address
+2021-03-19 16:52:00,690 [main] INFO My Store - Clicked create account
+2021-03-19 16:52:26,348 [main] INFO My Store - Entered email address
+2021-03-19 16:52:27,436 [main] INFO My Store - Clicked create account
+2021-03-19 16:52:55,378 [main] INFO My Store - Entered email address
+2021-03-19 16:52:56,459 [main] INFO My Store - Clicked create account
+2021-03-19 16:59:42,259 [main] INFO My Store - Entered email address
+2021-03-19 16:59:43,340 [main] INFO My Store - Clicked create account
+2021-03-19 16:59:48,506 [main] INFO My Store - Set first name
+2021-03-19 16:59:48,552 [main] INFO My Store - Set last name
+2021-03-19 17:01:31,042 [main] INFO My Store - Entered email address
+2021-03-19 17:01:32,121 [main] INFO My Store - Clicked create account
+2021-03-19 17:01:37,277 [main] INFO My Store - Set first name
+2021-03-19 17:01:37,326 [main] INFO My Store - Set last name
+2021-03-19 17:03:04,860 [main] INFO My Store - Entered email address
+2021-03-19 17:03:05,934 [main] INFO My Store - Clicked create account
+2021-03-19 17:03:11,107 [main] INFO My Store - Set first name
+2021-03-19 17:03:11,178 [main] INFO My Store - Set last name
+2021-03-19 17:08:01,286 [main] INFO My Store - Entered email address
+2021-03-19 17:08:02,360 [main] INFO My Store - Clicked create account
+2021-03-19 17:08:07,511 [main] INFO My Store - Set first name
+2021-03-19 17:08:07,583 [main] INFO My Store - Set last name
+2021-03-19 21:12:30,186 [main] INFO My Store - Entered email address
+2021-03-19 21:12:31,265 [main] INFO My Store - Clicked create account
+2021-03-19 21:12:36,425 [main] INFO My Store - Set first name
+2021-03-19 21:12:36,497 [main] INFO My Store - Set last name
+2021-03-19 21:15:23,885 [main] INFO My Store - Entered email address
+2021-03-19 21:15:24,961 [main] INFO My Store - Clicked create account
+2021-03-19 21:15:30,143 [main] INFO My Store - Set first name
+2021-03-19 21:15:30,220 [main] INFO My Store - Set last name
+2021-03-19 21:16:51,130 [main] INFO My Store - Entered email address
+2021-03-19 21:16:52,214 [main] INFO My Store - Clicked create account
+2021-03-19 21:16:57,371 [main] INFO My Store - Set first name
+2021-03-19 21:16:57,445 [main] INFO My Store - Set last name
+2021-03-19 21:17:01,589 [main] INFO My Store - Set password
+2021-03-19 21:17:28,817 [main] INFO My Store - Entered email address
+2021-03-19 21:17:29,899 [main] INFO My Store - Clicked create account
+2021-03-19 21:17:35,074 [main] INFO My Store - Set first name
+2021-03-19 21:17:35,145 [main] INFO My Store - Set last name
+2021-03-19 21:17:39,282 [main] INFO My Store - Set password
+2021-03-19 21:18:31,189 [main] INFO My Store - Entered email address
+2021-03-19 21:18:32,269 [main] INFO My Store - Clicked create account
+2021-03-19 21:18:37,426 [main] INFO My Store - Set first name
+2021-03-19 21:18:37,497 [main] INFO My Store - Set last name
+2021-03-19 21:18:41,641 [main] INFO My Store - Set password
+2021-03-19 21:25:45,532 [main] INFO My Store - Entered email address
+2021-03-19 21:25:46,617 [main] INFO My Store - Clicked create account
+2021-03-19 21:25:51,777 [main] INFO My Store - Set first name
+2021-03-19 21:25:51,848 [main] INFO My Store - Set last name
+2021-03-19 21:25:55,985 [main] INFO My Store - Set password
+2021-03-19 21:27:42,985 [main] INFO My Store - Entered email address
+2021-03-19 21:27:44,063 [main] INFO My Store - Clicked create account
+2021-03-19 21:27:49,221 [main] INFO My Store - Set first name
+2021-03-19 21:27:49,295 [main] INFO My Store - Set last name
+2021-03-19 21:27:53,439 [main] INFO My Store - Set password
+2021-03-19 21:27:53,646 [main] INFO My Store - Set date
+2021-03-19 21:27:53,838 [main] INFO My Store - Set month
+2021-03-19 21:27:54,060 [main] INFO My Store - Set year
+2021-03-19 21:27:54,125 [main] INFO My Store - check news letter
+2021-03-19 21:27:54,176 [main] INFO My Store - check info
+2021-03-19 21:29:34,860 [main] INFO My Store - Entered email address
+2021-03-19 21:29:35,936 [main] INFO My Store - Clicked create account
+2021-03-19 21:30:12,924 [main] INFO My Store - Entered email address
+2021-03-19 21:30:13,996 [main] INFO My Store - Clicked create account
+2021-03-19 21:30:19,164 [main] INFO My Store - Set first name
+2021-03-19 21:30:19,236 [main] INFO My Store - Set last name
+2021-03-19 21:30:23,371 [main] INFO My Store - Set password
+2021-03-19 21:30:23,576 [main] INFO My Store - Set date
+2021-03-19 21:30:23,752 [main] INFO My Store - Set month
+2021-03-19 21:30:23,977 [main] INFO My Store - Set year
+2021-03-19 21:30:24,049 [main] INFO My Store - check news letter
+2021-03-19 21:30:24,114 [main] INFO My Store - check info
+2021-03-19 21:31:39,202 [main] INFO My Store - Entered email address
+2021-03-19 21:31:40,283 [main] INFO My Store - Clicked create account
+2021-03-19 21:31:45,464 [main] INFO My Store - Set first name
+2021-03-19 21:31:45,536 [main] INFO My Store - Set last name
+2021-03-19 21:31:49,680 [main] INFO My Store - Set password
+2021-03-19 21:31:49,886 [main] INFO My Store - Set date
+2021-03-19 21:31:50,069 [main] INFO My Store - Set month
+2021-03-19 21:31:50,283 [main] INFO My Store - Set year
+2021-03-19 21:31:50,352 [main] INFO My Store - check news letter
+2021-03-19 21:31:50,401 [main] INFO My Store - check info
+2021-03-19 21:38:45,529 [main] INFO My Store - Entered email address
+2021-03-19 21:38:46,614 [main] INFO My Store - Clicked create account
+2021-03-19 21:38:51,773 [main] INFO My Store - Set first name
+2021-03-19 21:38:51,848 [main] INFO My Store - Set last name
+2021-03-19 21:38:55,993 [main] INFO My Store - Set password
+2021-03-19 21:38:56,197 [main] INFO My Store - Set date
+2021-03-19 21:38:56,399 [main] INFO My Store - Set month
+2021-03-19 21:38:56,609 [main] INFO My Store - Set year
+2021-03-19 21:38:56,680 [main] INFO My Store - check news letter
+2021-03-19 21:38:56,728 [main] INFO My Store - check info
+2021-03-19 21:40:48,833 [main] INFO My Store - Entered email address
+2021-03-19 21:40:49,903 [main] INFO My Store - Clicked create account
+2021-03-19 21:40:55,069 [main] INFO My Store - Set first name
+2021-03-19 21:40:55,138 [main] INFO My Store - Set last name
+2021-03-19 21:40:59,288 [main] INFO My Store - Set password
+2021-03-19 21:40:59,489 [main] INFO My Store - Set date
+2021-03-19 21:40:59,682 [main] INFO My Store - Set month
+2021-03-19 21:40:59,905 [main] INFO My Store - Set year
+2021-03-19 21:40:59,974 [main] INFO My Store - check news letter
+2021-03-19 21:41:00,040 [main] INFO My Store - check info
+2021-03-20 00:20:00,556 [main] INFO My Store - Entered email address
+2021-03-20 00:20:01,630 [main] INFO My Store - Clicked create account
+2021-03-20 00:20:06,786 [main] INFO My Store - Set first name
+2021-03-20 00:20:06,856 [main] INFO My Store - Set last name
+2021-03-20 00:20:10,994 [main] INFO My Store - Set password
+2021-03-20 00:20:11,193 [main] INFO My Store - Set date
+2021-03-20 00:20:11,362 [main] INFO My Store - Set month
+2021-03-20 00:20:11,582 [main] INFO My Store - Set year
+2021-03-20 00:20:11,645 [main] INFO My Store - check news letter
+2021-03-20 00:20:11,693 [main] INFO My Store - check info
+2021-03-20 00:21:30,953 [main] INFO My Store - Entered email address
+2021-03-20 00:21:32,023 [main] INFO My Store - Clicked create account
+2021-03-20 00:21:37,181 [main] INFO My Store - Set first name
+2021-03-20 00:21:37,255 [main] INFO My Store - Set last name
+2021-03-20 00:21:41,396 [main] INFO My Store - Set password
+2021-03-20 00:21:41,605 [main] INFO My Store - Set date
+2021-03-20 00:21:41,798 [main] INFO My Store - Set month
+2021-03-20 00:21:42,011 [main] INFO My Store - Set year
+2021-03-20 00:21:42,081 [main] INFO My Store - check news letter
+2021-03-20 00:21:42,127 [main] INFO My Store - check info
+2021-03-20 00:23:06,281 [main] INFO My Store - Entered email address
+2021-03-20 00:23:07,359 [main] INFO My Store - Clicked create account
+2021-03-20 00:23:12,520 [main] INFO My Store - Set first name
+2021-03-20 00:23:12,594 [main] INFO My Store - Set last name
+2021-03-20 00:23:16,734 [main] INFO My Store - Set password
+2021-03-20 00:23:16,939 [main] INFO My Store - Set date
+2021-03-20 00:23:17,137 [main] INFO My Store - Set month
+2021-03-20 00:23:17,346 [main] INFO My Store - Set year
+2021-03-20 00:23:19,427 [main] INFO My Store - check news letter
+2021-03-20 00:23:19,477 [main] INFO My Store - check info
+2021-03-20 00:23:48,287 [main] INFO My Store - Entered email address
+2021-03-20 00:23:49,365 [main] INFO My Store - Clicked create account
+2021-03-20 00:23:54,537 [main] INFO My Store - Set first name
+2021-03-20 00:23:54,606 [main] INFO My Store - Set last name
+2021-03-20 00:23:58,751 [main] INFO My Store - Set password
+2021-03-20 00:23:58,954 [main] INFO My Store - Set date
+2021-03-20 00:23:59,141 [main] INFO My Store - Set month
+2021-03-20 00:23:59,355 [main] INFO My Store - Set year
+2021-03-20 00:24:01,425 [main] INFO My Store - check news letter
+2021-03-20 00:24:01,477 [main] INFO My Store - check info
+2021-03-20 13:40:13,669 [main] INFO My Store - Entered email address
+2021-03-20 13:40:14,742 [main] INFO My Store - Clicked create account
+2021-03-20 13:40:59,452 [main] INFO My Store - Entered email address
+2021-03-20 13:41:00,537 [main] INFO My Store - Clicked create account
+2021-03-20 13:41:05,708 [main] INFO My Store - Set first name
+2021-03-20 13:41:05,774 [main] INFO My Store - Set last name
+2021-03-20 13:41:09,924 [main] INFO My Store - Set password
+2021-03-20 13:41:10,116 [main] INFO My Store - Set date
+2021-03-20 13:41:10,312 [main] INFO My Store - Set month
+2021-03-20 13:41:10,518 [main] INFO My Store - Set year
+2021-03-20 13:41:12,597 [main] INFO My Store - check news letter
+2021-03-20 13:41:12,646 [main] INFO My Store - check info
+2021-03-20 13:59:54,527 [main] INFO My Store - Entered email address
+2021-03-20 13:59:55,611 [main] INFO My Store - Clicked create account
+2021-03-20 14:00:00,792 [main] INFO My Store - Set first name
+2021-03-20 14:00:00,866 [main] INFO My Store - Set last name
+2021-03-20 14:00:05,020 [main] INFO My Store - Set password
+2021-03-20 14:00:05,222 [main] INFO My Store - Set date
+2021-03-20 14:00:05,398 [main] INFO My Store - Set month
+2021-03-20 14:00:05,620 [main] INFO My Store - Set year
+2021-03-20 14:00:07,702 [main] INFO My Store - check news letter
+2021-03-20 14:00:07,754 [main] INFO My Store - check info
+2021-03-20 14:00:11,993 [main] INFO My Store - Added company name info
+2021-03-20 14:00:12,061 [main] INFO My Store - Added address 1
+2021-03-20 14:00:12,127 [main] INFO My Store - Added address 2
+2021-03-20 14:00:12,189 [main] INFO My Store - Added city
+2021-03-20 14:00:12,378 [main] INFO My Store - Added state
+2021-03-20 14:00:12,454 [main] INFO My Store - Added zip code
+2021-03-20 14:00:12,589 [main] INFO My Store - Selected country
+2021-03-20 14:00:12,659 [main] INFO My Store - Added other information
+2021-03-20 14:00:12,745 [main] INFO My Store - Added phone number
+2021-03-20 14:00:12,822 [main] INFO My Store - Added mobile number
+2021-03-20 14:00:12,930 [main] INFO My Store - Added future address
+2021-03-20 14:00:23,850 [main] INFO My Store - Clicked register button
+2021-03-20 14:12:21,615 [main] INFO My Store - Entered email address
+2021-03-20 14:12:22,689 [main] INFO My Store - Clicked create account
+2021-03-20 14:14:36,378 [main] INFO My Store - Entered email address
+2021-03-20 14:14:37,458 [main] INFO My Store - Clicked create account
+2021-03-20 14:14:42,615 [main] INFO My Store - Set first name
+2021-03-20 14:14:42,691 [main] INFO My Store - Set last name
+2021-03-20 14:14:46,838 [main] INFO My Store - Set password
+2021-03-20 14:14:47,042 [main] INFO My Store - Set date
+2021-03-20 14:14:47,238 [main] INFO My Store - Set month
+2021-03-20 14:14:47,446 [main] INFO My Store - Set year
+2021-03-20 14:14:49,526 [main] INFO My Store - check news letter
+2021-03-20 14:14:49,579 [main] INFO My Store - check info
+2021-03-20 14:14:53,822 [main] INFO My Store - Added company name info
+2021-03-20 14:14:53,891 [main] INFO My Store - Added address 1
+2021-03-20 14:14:53,955 [main] INFO My Store - Added address 2
+2021-03-20 14:14:54,019 [main] INFO My Store - Added city
+2021-03-20 14:14:54,217 [main] INFO My Store - Added state
+2021-03-20 14:14:54,287 [main] INFO My Store - Added zip code
+2021-03-20 14:14:54,447 [main] INFO My Store - Selected country
+2021-03-20 14:14:54,518 [main] INFO My Store - Added other information
+2021-03-20 14:14:54,586 [main] INFO My Store - Added phone number
+2021-03-20 14:14:54,655 [main] INFO My Store - Added mobile number
+2021-03-20 14:14:54,756 [main] INFO My Store - Added future address
+2021-03-20 14:15:05,026 [main] INFO My Store - Clicked register button
+2021-03-20 14:42:41,618 [main] INFO My Store - Entered email address
+2021-03-20 14:42:42,892 [main] INFO My Store - Clicked create account
+2021-03-20 14:43:07,249 [main] INFO My Store - Entered email address
+2021-03-20 14:43:08,523 [main] INFO My Store - Clicked create account
+2021-03-20 14:43:13,846 [main] INFO My Store - Set first name
+2021-03-20 14:43:13,881 [main] INFO My Store - Set last name
+2021-03-20 14:43:18,001 [main] INFO My Store - Set password
+2021-03-20 14:43:18,527 [main] INFO My Store - Set date
+2021-03-20 14:43:19,065 [main] INFO My Store - Set month
+2021-03-20 14:43:19,612 [main] INFO My Store - Set year
+2021-03-20 14:43:21,866 [main] INFO My Store - check news letter
+2021-03-20 14:43:22,104 [main] INFO My Store - check info
+2021-03-20 14:43:26,457 [main] INFO My Store - Added company name info
+2021-03-20 14:43:26,498 [main] INFO My Store - Added address 1
+2021-03-20 14:43:26,524 [main] INFO My Store - Added address 2
+2021-03-20 14:43:26,557 [main] INFO My Store - Added city
+2021-03-20 14:43:27,100 [main] INFO My Store - Added state
+2021-03-20 14:43:27,140 [main] INFO My Store - Added zip code
+2021-03-20 14:43:27,435 [main] INFO My Store - Selected country
+2021-03-20 14:43:27,471 [main] INFO My Store - Added other information
+2021-03-20 14:43:27,504 [main] INFO My Store - Added phone number
+2021-03-20 14:43:27,548 [main] INFO My Store - Added mobile number
+2021-03-20 14:43:27,605 [main] INFO My Store - Added future address
+2021-03-20 14:43:38,793 [main] INFO My Store - Clicked register button

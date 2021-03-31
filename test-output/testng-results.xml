@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Store Project" duration-ms="42939" started-at="2021-03-20T09:12:58Z" finished-at="2021-03-20T09:13:41Z">
+    <groups>
+    </groups>
+    <test name="My Store Register" duration-ms="42939" started-at="2021-03-20T09:12:58Z" finished-at="2021-03-20T09:13:41Z">
+      <class name="com.myStore.testCases.RegisterPage_TC001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.myStore.testCases.RegisterPage_TC001@5abca1e0]" name="setup" is-config="true" duration-ms="8560" started-at="2021-03-20T09:12:58Z" finished-at="2021-03-20T09:13:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="register()[pri:0, instance:com.myStore.testCases.RegisterPage_TC001@5abca1e0]" name="register" duration-ms="33668" started-at="2021-03-20T09:13:07Z" finished-at="2021-03-20T09:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myStore.testCases.RegisterPage_TC001@5abca1e0]" name="tearDown" is-config="true" duration-ms="561" started-at="2021-03-20T09:13:40Z" finished-at="2021-03-20T09:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myStore.testCases.RegisterPage_TC001 -->
+    </test> <!-- My Store Register -->
+  </suite> <!-- My Store Project -->
+</testng-results>
